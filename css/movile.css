@@ -1,6 +1,6 @@
 body,html{
 	background-image: url(../images/fondo.png);
-	background-repeat:no-repeat;
+	background-repeat:repeat;
 	background-attachment:fixed;
 	background-size:cover;
 }
@@ -51,6 +51,26 @@ body,html{
 	border-width:4.5px;
 	border-style:groove;
 	border-color:white;
+}
+#logito{
+	display: none;
+}
+#logo_oculto{
+	margin:auto ;
+	width:150px;
+	height: 150px;
+	padding-bottom: 0px;
+	background-image: url(../images/logo.png);
+	background-size:150px 150px;
+}
+#logo_oculto:hover {
+	margin:auto;
+	width:150px;
+	height: 150px;
+	padding-bottom: 0px;
+	background-image: url(../images/logo_neg.png);
+	background-size:150px 150px;
+	z-index: 999;
 }
 #logo {
 	margin:auto ;
@@ -201,7 +221,7 @@ checkbox{
 	color:white;
 }
 #boton1 input{
-	
+
 }
 
 h3{
