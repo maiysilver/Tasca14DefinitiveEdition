@@ -14,7 +14,7 @@ body,html{
 	background-color:#1fb8b9;
 	border-radius: 15px;
 	color:black;
-	font-size:3em;
+	font-size:2em;
 }
 #tablet{
 	width:700px;
@@ -24,7 +24,7 @@ body,html{
 	margin:auto;
 	height:50%;
 	width:90%;
-	font-size:1.5em;
+	font-size:1em;
 	border-radius: 15px;
 }
 #intro li{
@@ -71,7 +71,7 @@ body,html{
 }
 a.logo p {
 	margin-top:0px;
-	margin-left:46%;
+	float:right;
 	margin-bottom: -15px;
 	color:white;
 	font-size:2em;
@@ -201,7 +201,7 @@ checkbox{
 	color:white;
 }
 #boton1 input{
-	margin-left:25%;
+	
 }
 
 h3{

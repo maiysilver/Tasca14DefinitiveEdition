@@ -434,6 +434,7 @@ function mostrarNota(){
 	document.getElementById("nota").appendChild(p);
 	document.getElementById("preguntas").style.display="none";
 	document.getElementById("contenedor").style.display="inline-block";
+	document.getElementById("logito").style.display="inline-block";
 	window.location.hash = "#nota";
 }
 
