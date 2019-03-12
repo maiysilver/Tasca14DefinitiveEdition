@@ -1,5 +1,5 @@
 // fichero xml que está en el servidor rawgit
-var url="xml/preguntas.xml";
+var url="https://raw.githack.com/maiysilver/Tasca14DefinitiveEdition/master/xml/preguntas.xml";
 
 //Variables
 var i = 0;
