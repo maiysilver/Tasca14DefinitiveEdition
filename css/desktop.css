@@ -4,7 +4,9 @@ body,html{
 	background-attachment:fixed;
 	background-size:cover;
 }
-
+#page {
+	width:100%;
+}
 .info {
 	width:75%;
 	height:auto;
