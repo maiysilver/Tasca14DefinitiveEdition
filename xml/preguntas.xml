@@ -65,7 +65,8 @@
     <option>Negro</option>
     <option>Verde</option>
     <option>Blanco</option>
-  	<answer>2</answer>
+  	<answer>1</answer>
+    <answer>3</answer>
   </question>
 
   <question id="preg_8">
